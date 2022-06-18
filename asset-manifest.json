@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Redux-Toolkit-Ecommerce/static/css/main.51e33d05.css",
+    "main.js": "/Redux-Toolkit-Ecommerce/static/js/main.1acd8f18.js",
+    "static/media/Img4.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img4.071289df1ecf48b98f36.jpg",
+    "static/media/Img3.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img3.2b7436d22d308a5d5a26.jpg",
+    "static/media/Img1.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img1.40870207b3e344bd893b.jpg",
+    "static/media/Img8.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img8.95c66ef83363d61e8101.jpg",
+    "static/media/Img5.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img5.4f3144d71e1320599902.jpg",
+    "static/media/Img10.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img10.8d46d9f07a847d13c416.jpg",
+    "static/media/Img7.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img7.1023db42a74b5608c694.jpg",
+    "static/media/Img2.jpg": "/Redux-Toolkit-Ecommerce/static/media/Img2.042483c66349de6470d6.jpg",
+    "index.html": "/Redux-Toolkit-Ecommerce/index.html",
+    "main.51e33d05.css.map": "/Redux-Toolkit-Ecommerce/static/css/main.51e33d05.css.map",
+    "main.1acd8f18.js.map": "/Redux-Toolkit-Ecommerce/static/js/main.1acd8f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e33d05.css",
+    "static/js/main.1acd8f18.js"
+  ]
+}
